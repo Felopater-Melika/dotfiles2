@@ -1,0 +1,4 @@
+-Xmx1901m
+-Dide.managed.by.toolbox=/home/philo/.local/share/JetBrains/Toolbox/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=e85b28c4-bac2-4542-8fef-a05c41c47dcc
+-Dtoolbox.notification.portFile=/home/philo/.local/share/JetBrains/Toolbox/cache/ports/1237687969.port

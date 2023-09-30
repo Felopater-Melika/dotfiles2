@@ -1,0 +1,325 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Solution1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1695356945193" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Solution1/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand />
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="API Security Audit">
+          <value>
+            <window_info anchor="right" id="API Security Audit" order="4" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Audit Problems">
+          <value>
+            <window_info anchor="bottom" id="Audit Problems" order="4" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Azure Explorer">
+          <value>
+            <window_info id="Azure Explorer" order="2" />
+          </value>
+        </entry>
+        <entry key="CodeStream">
+          <value>
+            <window_info id="CodeStream" order="2" />
+          </value>
+        </entry>
+        <entry key="Codeium Chat">
+          <value>
+            <window_info anchor="right" id="Codeium Chat" order="4" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="DB Browser">
+          <value>
+            <window_info id="DB Browser" order="2" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="GitHub Actions">
+          <value>
+            <window_info anchor="bottom" id="GitHub Actions" order="4" />
+          </value>
+        </entry>
+        <entry key="GitLive">
+          <value>
+            <window_info anchor="bottom" id="GitLive" order="4" />
+          </value>
+        </entry>
+        <entry key="Github Tools">
+          <value>
+            <window_info anchor="right" id="Github Tools" order="4" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="GraphQL">
+          <value>
+            <window_info anchor="bottom" id="GraphQL" order="4" />
+          </value>
+        </entry>
+        <entry key="JetClient">
+          <value>
+            <window_info anchor="right" id="JetClient" order="4" />
+          </value>
+        </entry>
+        <entry key="Key Promoter X">
+          <value>
+            <window_info anchor="right" id="Key Promoter X" order="4" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Meet New UI">
+          <value>
+            <window_info active="true" anchor="right" id="Meet New UI" side_tool="true" visible="true" weight="0.659882" />
+          </value>
+        </entry>
+        <entry key="Mongo DB Browser">
+          <value>
+            <window_info anchor="right" id="Mongo DB Browser" order="4" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="OpenAPI">
+          <value>
+            <window_info id="OpenAPI" order="2" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2179941" />
+          </value>
+        </entry>
+        <entry key="RestfulBox">
+          <value>
+            <window_info anchor="right" id="RestfulBox" order="4" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" />
+          </value>
+        </entry>
+        <entry key="SonarLint">
+          <value>
+            <window_info anchor="bottom" id="SonarLint" order="4" />
+          </value>
+        </entry>
+        <entry key="Statistic">
+          <value>
+            <window_info anchor="bottom" id="Statistic" order="4" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="TMS">
+          <value>
+            <window_info id="TMS" order="2" />
+          </value>
+        </entry>
+        <entry key="Tabnine Chat">
+          <value>
+            <window_info anchor="right" id="Tabnine Chat" order="4" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" />
+          </value>
+        </entry>
+        <entry key="Toolset">
+          <value>
+            <window_info anchor="bottom" id="Toolset" order="4" />
+          </value>
+        </entry>
+        <entry key="Translation.Wordbook">
+          <value>
+            <window_info anchor="right" id="Translation.Wordbook" order="4" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" />
+          </value>
+        </entry>
+        <entry key="Web Inspector">
+          <value>
+            <window_info anchor="right" id="Web Inspector" order="4" />
+          </value>
+        </entry>
+        <entry key="YouTrack">
+          <value>
+            <window_info anchor="bottom" id="YouTrack" order="4" />
+          </value>
+        </entry>
+        <entry key="aws.toolkit.explorer">
+          <value>
+            <window_info id="aws.toolkit.explorer" order="2" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="github.copilotToolWindow">
+          <value>
+            <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunToolbarSettings">
+    <option name="slotOrder">
+      <option value="97439eb5-1ee1-4ba3-906b-f41fa675b501" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="788000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2179941" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Azure Explorer" order="2" />
+      <window_info id="CodeStream" order="2" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="aws.toolkit.explorer" order="2" side_tool="true" />
+      <window_info id="TMS" order="2" />
+      <window_info id="OpenAPI" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Audit Problems" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Actions" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="YouTrack" order="4" />
+      <window_info anchor="bottom" id="GraphQL" order="4" />
+      <window_info anchor="bottom" id="Toolset" order="4" />
+      <window_info anchor="bottom" id="GitLive" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="SonarLint" order="4" />
+      <window_info active="true" anchor="right" id="Meet New UI" side_tool="true" visible="true" weight="0.659882" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Codeium Chat" order="4" />
+      <window_info anchor="right" id="Web Inspector" order="4" />
+      <window_info anchor="right" id="JetClient" order="4" />
+      <window_info anchor="right" id="Mongo DB Browser" order="4" />
+      <window_info anchor="right" id="API Security Audit" order="4" side_tool="true" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Translation.Wordbook" order="4" side_tool="true" />
+      <window_info anchor="right" id="Tabnine Chat" order="4" />
+      <window_info anchor="right" id="RestfulBox" order="4" />
+      <window_info anchor="right" id="Github Tools" order="4" />
+      <unified_weights left="0.2179941" right="0.659882" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2645" y="377" width="700" height="700" key="#Plugins" timestamp="1695398613619">
+      <screen x="1280" y="0" width="3440" height="1440" />
+    </state>
+    <state x="2645" y="377" width="700" height="700" key="#Plugins/0.0.1280.800/1280.0.3440.1440@1280.0.3440.1440" timestamp="1695398613619" />
+    <state x="2256" y="384" width="908" height="740" key="SettingsEditor" timestamp="1695398622565">
+      <screen x="1280" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1287" y="30" width="900" height="700" key="SettingsEditor/0.0.1280.800/1280.0.1720.720@1280.0.1720.720" timestamp="1695356849093" />
+    <state x="2256" y="384" key="SettingsEditor/0.0.1280.800/1280.0.3440.1440@1280.0.3440.1440" timestamp="1695398622565" />
+    <state x="3536" y="384" width="908" height="740" key="SettingsEditor/0.27.1280.773/2560.0.3440.1440@2560.0.3440.1440" timestamp="1695357032566" />
+  </component>
+</project>

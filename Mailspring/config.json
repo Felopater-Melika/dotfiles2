@@ -1,0 +1,133 @@
+{
+  "*": {
+    "env": "production",
+    "core": {
+      "themes": [
+        "ui-light"
+      ],
+      "disabledPackages": [
+        "message-view-on-github",
+        "personal-level-indicators",
+        "phishing-detection",
+        "nylas-private-salesforce",
+        "github-contact-card",
+        "keybase",
+        "composer-markdown",
+        "composer-scheduler",
+        "composer-mail-merge",
+        "send-and-archive",
+        "main-calendar"
+      ],
+      "workspace": {
+        "mode": "split"
+      },
+      "keymapTemplate": "Gmail",
+      "tutorial": {
+        "seen": [
+          "ThreadSearchBar"
+        ]
+      },
+      "theme": "Catppuccin-Mocha"
+    },
+    "identity": {
+      "id": "d30b91ba-1bf7-4e11-8a2a-058fcc593304",
+      "firstName": "Philopater",
+      "lastName": "Phoenix",
+      "emailAddress": "Philopater.phoenix@gmail.com",
+      "object": "identity",
+      "createdAt": "2023-09-22T19:46:20.000Z",
+      "stripePlan": "Basic",
+      "stripePlanEffective": "Basic",
+      "stripeCustomerId": "cus_OgcXo2axN9WF9N",
+      "stripePeriodEnd": "2023-10-22T19:46:19.000Z",
+      "featureUsage": {
+        "snooze": {
+          "quota": 15,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "send-later": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "thread-sharing": {
+          "quota": 3,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "link-tracking": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "open-tracking": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "contact-profiles": {
+          "quota": 3,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "send-reminders": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "translation": {
+          "quota": 50,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        }
+      }
+    },
+    "accounts": [
+      {
+        "id": "ec74d6a8",
+        "metadata": [],
+        "name": "Philopater Phoenix",
+        "provider": "gmail",
+        "emailAddress": "philopater.phoenix@gmail.com",
+        "settings": {
+          "imap_host": "imap.gmail.com",
+          "imap_port": 993,
+          "imap_username": "philopater.phoenix@gmail.com",
+          "imap_security": "SSL / TLS",
+          "imap_allow_insecure_ssl": false,
+          "smtp_host": "smtp.gmail.com",
+          "smtp_port": 587,
+          "smtp_username": "philopater.phoenix@gmail.com",
+          "smtp_security": "STARTTLS",
+          "smtp_allow_insecure_ssl": false,
+          "container_folder": "",
+          "refresh_client_id": "662287800555-pdiq3r3puob8a44locitndbocua7c30f.apps.googleusercontent.com"
+        },
+        "label": "philopater.phoenix@gmail.com",
+        "autoaddress": {
+          "type": "bcc",
+          "value": ""
+        },
+        "aliases": [],
+        "syncState": "ok",
+        "authedAt": 1695412013.51,
+        "color": "",
+        "__cls": "Account"
+      }
+    ],
+    "accountsVersion": 1,
+    "containerFolderDefault": "",
+    "mailto": {
+      "prompted-about-default": true
+    }
+  }
+}

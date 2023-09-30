@@ -1,0 +1,23 @@
+{
+	"notifications": [
+		{
+			"guid": "964002dd-61a8-4dbf-b0f3-ea5ad5c1c9eb",
+			"timestamp": 1695408040680,
+			"read": false,
+			"displayState": "background",
+			"notification": {
+				"type": "action-result",
+				"operation": "user-log-in",
+				"icon": "error",
+				"text": "Unable to log in",
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"ephemeral": false,
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		}
+	]
+}

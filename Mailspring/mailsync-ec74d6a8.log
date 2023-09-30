@@ -1,0 +1,158 @@
+61794 [2023-09-22 14:47:08.927] [main] [info] Identity created at 1695433580 - using ID Schema 1
+61794 [2023-09-22 14:47:08.928] [main] [info] ------------- Starting Sync (philopater.phoenix@gmail.com) ---------------
+61794 [2023-09-22 14:47:08.930] [background] [info] Fetching XOAuth2 access token (gmail) for ec74d6a8
+61794 [2023-09-22 14:47:09.313] [background] [info] Marking all folders as `busy`
+61794 [2023-09-22 14:47:09.313] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:09.724] [metadata] [info] Metadata delta stream starting...
+61794 [2023-09-22 14:47:10.113] [background] [error] Created Mailspring container folder: Mailspring.
+61794 [2023-09-22 14:47:10.342] [background] [error] Created required Mailspring folder: Mailspring/Snoozed.
+61794 [2023-09-22 14:47:10.344] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:10.438] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 599 - 1349, Heavy: true
+61794 [2023-09-22 14:47:10.772] [foreground] [info] Idling on folder [Gmail]/All Mail
+61794 [2023-09-22 14:47:11.159] [background] [info] - [Gmail]/All Mail: remote=734, local=0, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:47:13.393] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 949 - 1349, Heavy: false
+61794 [2023-09-22 14:47:13.532] [background] [info] - [Gmail]/All Mail: remote=400, local=400, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:47:15.394] [background] [info] syncFolderUIDRange for [Gmail]/Trash, UIDs: 1 - 2, Heavy: true
+61794 [2023-09-22 14:47:15.473] [background] [info] - [Gmail]/Trash: remote=0, local=0, remoteUID=DPbzEwbw12kax3zwCi1tguxUJVuu7gdvvZ2wmSrmu
+61794 [2023-09-22 14:47:15.473] [background] [info] syncFolderUIDRange for [Gmail]/Trash, UIDs: 1 - 2, Heavy: false
+61794 [2023-09-22 14:47:15.510] [background] [info] - [Gmail]/Trash: remote=0, local=0, remoteUID=DPbzEwbw12kax3zwCi1tguxUJVuu7gdvvZ2wmSrmu
+61794 [2023-09-22 14:47:15.510] [background] [info] Cleaning local cache and updating stats
+61794 [2023-09-22 14:47:15.511] [background] [info] -- 0 message bodies deleted from local cache.
+61794 [2023-09-22 14:47:15.540] [background] [info] syncFolderUIDRange for [Gmail]/Spam, UIDs: 1 - 16, Heavy: true
+61794 [2023-09-22 14:47:15.612] [background] [info] - [Gmail]/Spam: remote=0, local=0, remoteUID=TcJzJg6m7MBYxMUEcGzKQvDUwFboyR8Szu8ZLXyE6
+61794 [2023-09-22 14:47:15.612] [background] [info] syncFolderUIDRange for [Gmail]/Spam, UIDs: 1 - 16, Heavy: false
+61794 [2023-09-22 14:47:15.644] [background] [info] - [Gmail]/Spam: remote=0, local=0, remoteUID=TcJzJg6m7MBYxMUEcGzKQvDUwFboyR8Szu8ZLXyE6
+61794 [2023-09-22 14:47:15.644] [background] [info] Cleaning local cache and updating stats
+61794 [2023-09-22 14:47:15.645] [background] [info] -- 0 message bodies deleted from local cache.
+61794 [2023-09-22 14:47:15.645] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:15.645] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:15.645] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:15.718] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 1 - 599, Heavy: true
+61794 [2023-09-22 14:47:16.293] [background] [info] - [Gmail]/All Mail: remote=563, local=0, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:47:17.173] [background] [warning] [SLOW] Transaction=insertMessage > 80ms (397ms, 0 waiting to aquire)
+61794 [2023-09-22 14:47:17.179] [main] [info] [local-bd86c9f0-83ad] Running ChangeUnreadTask performLocal:
+61794 [2023-09-22 14:47:17.190] [main] [info] [local-bd86c9f0-83ad] -- Succeeded. Changing status to `remote`
+61794 [2023-09-22 14:47:17.527] [foreground] [info] Idle exited with code 0
+61794 [2023-09-22 14:47:17.527] [foreground] [info] [local-bd86c9f0-83ad] Running ChangeUnreadTask performRemote:
+61794 [2023-09-22 14:47:17.727] [foreground] [info] [local-bd86c9f0-83ad] -- Succeeded. Changing status to `complete`
+61794 [2023-09-22 14:47:17.783] [foreground] [info] syncFolderChangesViaCondstore - [Gmail]/All Mail: modseq 125398 to 125437, uidnext 1349 to 1349
+61794 [2023-09-22 14:47:17.828] [foreground] [info] syncFolderChangesViaCondstore - Changes since HMODSEQ 125398: 1 changed, 0 vanished
+61794 [2023-09-22 14:47:18.787] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 1 - 0, Heavy: false
+61794 [2023-09-22 14:47:19.249] [background] [info] - [Gmail]/All Mail: remote=1297, local=1297, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:47:19.883] [foreground] [warning] [SLOW] Transaction=retrievedMessageBody > 80ms (616ms, 0 waiting to aquire)
+61794 [2023-09-22 14:47:19.883] [background] [warning] [SLOW] Transaction=retrievedMessageBody > 80ms (581ms, 0 waiting to aquire)
+61794 [2023-09-22 14:47:19.924] [main] [info] [local-16102707-2a9e] Running ChangeUnreadTask performLocal:
+61794 [2023-09-22 14:47:19.927] [main] [info] [local-16102707-2a9e] -- Succeeded. Changing status to `remote`
+61794 [2023-09-22 14:47:20.525] [foreground] [info] [local-16102707-2a9e] Running ChangeUnreadTask performRemote:
+61794 [2023-09-22 14:47:20.756] [foreground] [info] [local-16102707-2a9e] -- Succeeded. Changing status to `complete`
+61794 [2023-09-22 14:47:20.807] [foreground] [info] syncFolderChangesViaCondstore - [Gmail]/All Mail: modseq 125437 to 125487, uidnext 1349 to 1349
+61794 [2023-09-22 14:47:20.856] [foreground] [info] syncFolderChangesViaCondstore - Changes since HMODSEQ 125437: 1 changed, 0 vanished
+61794 [2023-09-22 14:47:21.576] [background] [info] Cleaning local cache and updating stats
+61794 [2023-09-22 14:47:21.578] [background] [info] -- 0 message bodies deleted from local cache.
+61794 [2023-09-22 14:47:21.642] [background] [info] syncFolderUIDRange for [Gmail]/Trash, UIDs: 1 - 0, Heavy: false
+61794 [2023-09-22 14:47:21.713] [background] [info] - [Gmail]/Trash: remote=0, local=0, remoteUID=DPbzEwbw12kax3zwCi1tguxUJVuu7gdvvZ2wmSrmu
+61794 [2023-09-22 14:47:21.752] [background] [info] syncFolderUIDRange for [Gmail]/Spam, UIDs: 1 - 0, Heavy: false
+61794 [2023-09-22 14:47:21.818] [background] [info] - [Gmail]/Spam: remote=0, local=0, remoteUID=TcJzJg6m7MBYxMUEcGzKQvDUwFboyR8Szu8ZLXyE6
+61794 [2023-09-22 14:47:21.819] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:21.820] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:21.820] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:22.823] [foreground] [info] Idling on folder [Gmail]/All Mail
+61794 [2023-09-22 14:47:23.929] [metadataExpiration] [info] Scanning for expired metadata
+61794 [2023-09-22 14:47:23.929] [metadataExpiration] [info] -- Will wake for next expiration in 7200sec
+61794 [2023-09-22 14:47:24.031] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:24.032] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:24.032] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:24.091] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 1 - 599, Heavy: true
+61794 [2023-09-22 14:47:24.502] [background] [info] - [Gmail]/All Mail: remote=563, local=563, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:47:24.506] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 1 - 0, Heavy: false
+61794 [2023-09-22 14:47:24.911] [background] [info] - [Gmail]/All Mail: remote=1297, local=1297, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:47:26.985] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:26.985] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:26.985] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:28.898] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:28.899] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:28.899] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:29.716] [calContacts] [info] apidata.googleusercontent.com/caldav/v2/philopater.phoenix%40gmail.com/events/
+61794 [2023-09-22 14:47:29.716] [calContacts] [info]   remote: 95 etags
+61794 [2023-09-22 14:47:29.716] [calContacts] [info]    local: 0 etags
+61794 [2023-09-22 14:47:29.716] [calContacts] [info]  deleted: 0
+61794 [2023-09-22 14:47:29.716] [calContacts] [info]   needed: 95
+61794 [2023-09-22 14:47:31.240] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:31.241] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:31.241] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:32.375] [background] [warning] [SLOW] Transaction=retrievedMessageBody > 80ms (285ms, 0 waiting to aquire)
+61794 [2023-09-22 14:47:33.483] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:33.484] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:33.484] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:34.242] [calContacts] [info] apidata.googleusercontent.com/caldav/v2/lcitmmk5e7ke2nrenso2c6dr6g%40group.calendar.google.com/events/
+61794 [2023-09-22 14:47:34.242] [calContacts] [info]   remote: 11 etags
+61794 [2023-09-22 14:47:34.242] [calContacts] [info]    local: 0 etags
+61794 [2023-09-22 14:47:34.242] [calContacts] [info]  deleted: 0
+61794 [2023-09-22 14:47:34.242] [calContacts] [info]   needed: 11
+61794 [2023-09-22 14:47:35.560] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:35.561] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:35.561] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:36.413] [calContacts] [info] apidata.googleusercontent.com/caldav/v2/cln2stbjc4hmgrrcd5i62ua0ctp6utbg5pr2sor1dhimsp31e8n6errfctm6abj3dtmg%40virtual/events/
+61794 [2023-09-22 14:47:36.413] [calContacts] [info]   remote: 10 etags
+61794 [2023-09-22 14:47:36.413] [calContacts] [info]    local: 0 etags
+61794 [2023-09-22 14:47:36.413] [calContacts] [info]  deleted: 0
+61794 [2023-09-22 14:47:36.413] [calContacts] [info]   needed: 10
+61794 [2023-09-22 14:47:37.762] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:37.763] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:37.763] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:39.700] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:39.701] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:39.701] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:41.902] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:41.902] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:41.902] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:43.993] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:43.993] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:43.993] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:46.070] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:46.070] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:46.070] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:47.982] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:47.983] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:47.983] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:50.028] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:50.029] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:50.029] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:52.008] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:52.009] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:52.009] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:53.935] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:53.936] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:53.936] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:56.006] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:56.006] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:56.006] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:57.995] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:47:57.996] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:57.996] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:47:59.843] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:47:59.844] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:47:59.844] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:48:01.891] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:48:01.892] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:48:01.892] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:48:03.778] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:48:03.778] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:48:03.778] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:48:05.698] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:48:05.698] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:48:05.698] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:48:07.021] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:48:07.021] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:48:07.021] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:48:07.156] [background] [info] Sync loop deleting unlinked messages with phase 2.
+61794 [2023-09-22 14:48:07.156] [background] [info] Sync loop complete.
+61794 [2023-09-22 14:50:07.157] [background] [info] Syncing folder list...
+61794 [2023-09-22 14:50:07.379] [background] [info] syncFolderUIDRange for [Gmail]/All Mail, UIDs: 949 - 1349, Heavy: false
+61794 [2023-09-22 14:50:07.519] [background] [info] - [Gmail]/All Mail: remote=400, local=400, remoteUID=46f1r7RrrVdoAyDjfbk1DcG1vMtDytdgxqa2WZNke
+61794 [2023-09-22 14:50:07.580] [background] [info] syncFolderUIDRange for [Gmail]/Trash, UIDs: 1 - 2, Heavy: false
+61794 [2023-09-22 14:50:07.652] [background] [info] - [Gmail]/Trash: remote=0, local=0, remoteUID=DPbzEwbw12kax3zwCi1tguxUJVuu7gdvvZ2wmSrmu
+61794 [2023-09-22 14:50:07.682] [background] [info] syncFolderUIDRange for [Gmail]/Spam, UIDs: 1 - 16, Heavy: false
+61794 [2023-09-22 14:50:07.767] [background] [info] - [Gmail]/Spam: remote=0, local=0, remoteUID=TcJzJg6m7MBYxMUEcGzKQvDUwFboyR8Szu8ZLXyE6
+61794 [2023-09-22 14:50:07.768] [background] [info] Sync loop deleting unlinked messages with phase 1.
+61794 [2023-09-22 14:50:07.768] [background] [info] Sync loop complete.

@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DiscordProjectSettings">
+        <option name="show" value="ASK" />
+        <option name="description" value="" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="WindowStateProjectService">
+        <state x="2166" y="114" width="800" height="500" key="Rider.ProjectTemplateDialog.Size" timestamp="1695356613723">
+          <screen x="1280" y="0" width="1720" height="720" />
+        </state>
+        <state x="2166" y="114" width="800" height="500" key="Rider.ProjectTemplateDialog.Size/0.0.1280.800/1280.0.1720.720" timestamp="1695356613723" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

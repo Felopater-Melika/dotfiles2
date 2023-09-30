@@ -1,0 +1,17 @@
+<application>
+  <component name="LafManager" autodetect="false">
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="com.github.catppuccin.mocha.jetbrains" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Catppuccin Frappe" scheme="_@user_Default" />
+      <laf-to-scheme laf="Catppuccin Latte" scheme="_@user_Default" />
+      <laf-to-scheme laf="Catppuccin Macchiato" scheme="_@user_Default" />
+      <laf-to-scheme laf="Catppuccin Mocha" scheme="_@user_Catppuccin Mocha" />
+      <laf-to-scheme laf="Custom Theme (Material)" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="Material Oceanic" scheme="Material Oceanic" />
+      <laf-to-scheme laf="TokyoNight Dark" scheme="_@user_TokyoNightDark" />
+      <laf-to-scheme laf="TokyoNight Storm" scheme="_@user_TokyoNightStorm" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

@@ -1,0 +1,88 @@
+<application>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Roboto" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "GeneralSettings.initiallyConfigured": "true",
+    "InstalledPluginsSearchHistory": "git\ngit c\ngit cr\ngit cred\ngit cre",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "MarketplacePluginsSearchHistory": "bitbucket\nbit\n/suggested",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.BH_2023.7.12": "true",
+    "RunOnceActivity.software.aws.toolkits.jetbrains.services.caws.EnableGitCredHelper": "true",
+    "SettingsSearchHistory": "version\ngit\nbitbucket",
+    "app.teamhub.bitbucket.org/suscopts/suscopts-web-baseBranches": "{}",
+    "app.teamhub.com.google.firebase.auth.FIREBASE_USER": "{\"uid\":\"{1ztUcG21cM5uLPRddUyLIt7\",\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6ImFkNWM1ZTlmNTdjOWI2NDYzYzg1ODQ1YTA4OTlhOWQ0MTI5MmM4YzMiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRmVsb3BhdGVyIE1lbGlrYSIsInBpY3R1cmUiOiJodHRwczovL3NlY3VyZS5ncmF2YXRhci5jb20vYXZhdGFyLzU3Yzg2NjlmNjgxNjkyY2RmODhlOTM3YjA5MTQxNjE1P2Q9aHR0cHMlM0ElMkYlMkZhdmF0YXItbWFuYWdlbWVudC0tYXZhdGFycy51cy13ZXN0LTIucHJvZC5wdWJsaWMuYXRsLXBhYXMubmV0JTJGaW5pdGlhbHMlMkZGTS00LnBuZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS90ZWFtaHViLWFwcCIsImF1ZCI6InRlYW1odWItYXBwIiwiYXV0aF90aW1lIjoxNjk2MDk5NDIyLCJ1c2VyX2lkIjoiezF6dFVjRzIxY001dUxQUmRkVXlMSXQ3Iiwic3ViIjoiezF6dFVjRzIxY001dUxQUmRkVXlMSXQ3IiwiaWF0IjoxNjk2MDk5NTczLCJleHAiOjE2OTYxMDMxNzMsImVtYWlsIjoiZmVsb3BhdGVybWVsaWthQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJmZWxvcGF0ZXJtZWxpa2FAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiY3VzdG9tIn19.ufoHYwfo-M6TRjo5Oky4DOOVIkdXwFRRvYFUsjeRei5FQ7ZQ2AxAW3XsWoNu3OOaxBQU0PCH5Ofa0joySt7PhcGhKM3d085fPZOCRMwqWY1VxWK0kCLbwHuXs_Tb3xKwDueBHuzP9T2iQKfInr1V2XPpy3sc9OcVEZ2ofHOC0Ot4G-AduaP3nXYrr7XFZHJk2Pg7zv_fJAlMB41jlw_A6ggtPt6TuXCdyRHE3u-etdxHsmbKUw0OYk3XEWJodtLDqP2JXWYxZvDF7Ytvyd8m-MrsbziJc_j6-qQdx5y0VZ_iFl0Ta2zY8Mrc9DHgxS-w2Z_ZouvktxLREmq-OAUa2g\",\"refreshToken\":\"AMf-vBwVfrJQwjCcO4_ytMLcww29mWRPDDGri5gGg9jf-4NO1WFytbbYt7TQYXlITo4NPESlkBBkg999yMJW5j3_3Q7R_v45w9RXrfFxBjpM5fyu5nxJg4Mid3-LT5JVnGF4_acefXPuEwl_LuorHgdcRbbTQkiUw4dDYQwFgOOtcVFqwbCbLzU\",\"expiresIn\":3600,\"createdAt\":1696099573423,\"isAnonymous\":false}",
+    "app.teamhub.fire-global": "1696096872319",
+    "app.teamhub.last-used-date": "2023-09-30",
+    "app.teamhub.team-window-shown": "true",
+    "app.teamhub.version": "16.1",
+    "appcds.runOnSecondStart": "WS-232.9921.42-6f8faca25f322317272a6535bff9b0de6737cc3f16a2b2cb0c067210edcb00e5",
+    "bundled.plugins.list.saved.version": "WS-232.9921.42",
+    "cn.yiiguxing.plugin.translate.version": "3.5.4",
+    "com.xliic.openapi.settings.platform.dictionary.pre-audit": "Ask",
+    "com.xliic.openapi.settings.platform.scan.docker.replace.localhost": "true",
+    "com.xliic.openapi.settings.platform.scan.docker.use.host.network": "true",
+    "com.xliic.openapi.settings.platform.scan.image": "42crunch/scand-agent:v2.0.0",
+    "com.xliic.openapi.settings.platform.scan.runtime": "docker",
+    "com.xliic.openapi.settings.platform.scan.scand.auth": "none",
+    "com.xliic.openapi.settings.platform.scan.scand.url": "",
+    "com.xliic.openapi.settings.platform.scan.services": "",
+    "com.xliic.openapi.settings.platform.url": "https://platform.42crunch.com",
+    "com.xliic.openapi.settings.preview.port": "61112",
+    "com.xliic.openapi.settings.preview.renderer": "Swagger UI",
+    "com.xliic.openapi.settings.sort.abc": "true",
+    "evlsprt3.232": "4",
+    "experimental.ui.first.promotion.localdate": "2023-09-21",
+    "experimental.ui.first.switch": "true",
+    "experimental.ui.on.first.startup": "false",
+    "experimental.ui.onboarding.proposed.version": "232.9921.42",
+    "experimental.ui.used.version": "232.9921.42",
+    "file.gist.reindex.count": "16",
+    "fileTypeChangedCounter": "98",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "io.jetclient.version": "2023.1.15-232",
+    "io.plugin.tsnode.version": "2022.11.14-1",
+    "last_opened_file_path": "/home/philo/WebstormProjects/suscopts-web",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "openapi.generate.token.base64.key": "",
+    "previousColorScheme": "_@user_Catppuccin Mocha",
+    "registry.to.advanced.settings.migration.build": "WS-232.9921.42",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3",
+    "tv.twelvetone.intellij.common.device-id": "cf023a7b-7711-4c8f-b6f0-fa121c67197c",
+    "tv.twelvetone.intellij.plugins.intellivue.usage-counts": "{\"productVersion\":\"1.1.41\",\"product\":\"intellivue\",\"source\":\"cf023a7b-7711-4c8f-b6f0-fa121c67197c\",\"lastSent\":1696099561153,\"features\":{}}"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/philo/WebstormProjects/suscopts-web"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.kubernetes.api.settings.KubeConfigFileDetector",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "io.kanro.idea.plugin.protobuf.buf.BufLockFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

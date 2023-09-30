@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ChangesView.AddUnversioned">
+      <i c="1" l="1696099518344" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="12" l="1696099473399" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1696099469953" />
+    </e>
+    <e n="EditorPaste">
+      <i c="13" l="1696099971429" />
+    </e>
+    <e n="Git.Branches.Popup.Settings">
+      <i c="2" l="1696099621407" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1696096885395" />
+    </e>
+    <e n="ShowSettings">
+      <i c="9" l="1696099758673" />
+    </e>
+    <e n="Terminal.NewTab">
+      <i c="1" l="1696099229612" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1696096856088" />
+    </e>
+    <e n="com.intellij.grazie.ide.notification.GrazieToastNotifications$showMissedLanguages$1">
+      <i c="1" l="1696099581485" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.PluginsTab$3$1">
+      <i c="1" l="1696099454323" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="5" l="1696098128315" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1696098157784" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1696099587431" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1696099553749" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1696096886471" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="6" l="1696099529850" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1695356618055" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="2" l="1695391382710" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1696099625904" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="4" l="1696099404852" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1696099601679" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1696099482981" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupFetchAction">
+      <i c="4" l="1696099967171" />
+    </e>
+  </component>
+</application>

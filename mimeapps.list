@@ -1,0 +1,32 @@
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/http=firedragon.desktop
+x-scheme-handler/https=firedragon.desktop
+text/html=firedragon.desktop
+x-scheme-handler/mailto=Mailspring.desktop
+message/rfc822=userapp-Thunderbird-PUXFB2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-PUXFB2.desktop
+x-scheme-handler/news=userapp-Thunderbird-UQ76A2.desktop
+x-scheme-handler/snews=userapp-Thunderbird-UQ76A2.desktop
+x-scheme-handler/nntp=userapp-Thunderbird-UQ76A2.desktop
+x-scheme-handler/feed=userapp-Thunderbird-UC25A2.desktop
+application/rss+xml=userapp-Thunderbird-UC25A2.desktop
+application/x-extension-rss=userapp-Thunderbird-UC25A2.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-3F69A2.desktop
+text/calendar=userapp-Thunderbird-3F69A2.desktop
+application/x-extension-ics=userapp-Thunderbird-3F69A2.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-3F69A2.desktop
+x-scheme-handler/mailspring=Mailspring.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-PUXFB2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-PUXFB2.desktop;
+x-scheme-handler/news=userapp-Thunderbird-UQ76A2.desktop;
+x-scheme-handler/snews=userapp-Thunderbird-UQ76A2.desktop;
+x-scheme-handler/nntp=userapp-Thunderbird-UQ76A2.desktop;
+x-scheme-handler/feed=userapp-Thunderbird-UC25A2.desktop;
+application/rss+xml=userapp-Thunderbird-UC25A2.desktop;
+application/x-extension-rss=userapp-Thunderbird-UC25A2.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-3F69A2.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-3F69A2.desktop;

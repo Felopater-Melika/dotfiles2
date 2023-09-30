@@ -1,0 +1,311 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.24970675
+        },
+        {
+          "id": "Learn",
+          "order": 0
+        },
+        {
+          "id": "Structure",
+          "order": 0,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Find",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Debug",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Inspection",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Problems View",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "NuGet",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Build",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Endpoints",
+          "order": 0,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Database",
+          "order": 0,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        }
+      ],
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.2179941
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Azure Explorer",
+          "order": 2
+        },
+        {
+          "id": "CodeStream",
+          "order": 2
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "DB Browser",
+          "order": 2
+        },
+        {
+          "id": "aws.toolkit.explorer",
+          "order": 2,
+          "isSplit": true
+        },
+        {
+          "id": "TMS",
+          "order": 2
+        },
+        {
+          "id": "OpenAPI",
+          "order": 2,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Audit Problems",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isSplit": true
+        },
+        {
+          "id": "GitHub Actions",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Statistic",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "YouTrack",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "GraphQL",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Toolset",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "GitLive",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "SonarLint",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.659882,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Key Promoter X",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Codeium Chat",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Web Inspector",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "JetClient",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Mongo DB Browser",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "API Security Audit",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Tabnine Chat",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "RestfulBox",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Github Tools",
+          "order": 4,
+          "anchor": "RIGHT"
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.2179941,
+        "bottom": 0.33,
+        "right": 0.659882
+      }
+    }
+  }
+}]]></component>
+</application>

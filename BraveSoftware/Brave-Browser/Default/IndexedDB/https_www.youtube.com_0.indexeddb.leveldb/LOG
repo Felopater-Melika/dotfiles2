@@ -1,0 +1,6 @@
+2023/09/25-12:30:55.856 3f37 Creating DB /home/philo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/09/25-12:30:55.877 3f37 Reusing MANIFEST /home/philo/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/25-12:36:00.578 3f38 Level-0 table #5: started
+2023/09/25-12:36:00.589 3f38 Level-0 table #5: 442356 bytes OK
+2023/09/25-12:36:00.603 3f38 Delete type=0 #3
+2023/09/25-12:36:00.603 3f38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

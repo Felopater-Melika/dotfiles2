@@ -1,0 +1,38 @@
+<application>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="actions" value="PASSED" />
+        <entry key="before debugging: run/debug configurations" value="NOT_PASSED" />
+        <entry key="code completion" value="PASSED" />
+        <entry key="code editing tips and tricks" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="PASSED" />
+        <entry key="comment line" value="PASSED" />
+        <entry key="context.actions" value="PASSED" />
+        <entry key="debugging code. part i" value="NOT_PASSED" />
+        <entry key="debugging code. part ii" value="NOT_PASSED" />
+        <entry key="duplicate" value="PASSED" />
+        <entry key="extract variable" value="PASSED" />
+        <entry key="file structure" value="PASSED" />
+        <entry key="find in files" value="PASSED" />
+        <entry key="fundamentals of testing in webstorm" value="NOT_PASSED" />
+        <entry key="git.annotate" value="PASSED" />
+        <entry key="git.basicworkflow" value="PASSED" />
+        <entry key="git.changelistsandshelf" value="PASSED" />
+        <entry key="git.commit" value="PASSED" />
+        <entry key="git.interactiverebase" value="PASSED" />
+        <entry key="git.projecthistory" value="PASSED" />
+        <entry key="git.quickstart" value="PASSED" />
+        <entry key="multiple selections" value="PASSED" />
+        <entry key="refactorings in a nutshell" value="NOT_PASSED" />
+        <entry key="refactorings.rename" value="PASSED" />
+        <entry key="rider.refactoring.menu" value="PASSED" />
+        <entry key="search everywhere" value="PASSED" />
+        <entry key="secrets of efficient navigation" value="NOT_PASSED" />
+        <entry key="select" value="PASSED" />
+        <entry key="the nuts and bolts of code completion" value="NOT_PASSED" />
+        <entry key="the power of code inspections" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>

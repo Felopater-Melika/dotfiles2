@@ -1,0 +1,8 @@
+[21:40:50 2023-09-21] FETCHING Version 2.23.2
+[21:40:50 2023-09-21] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.23.2/spicetify-2.23.2-linux-amd64.tar.gz
+[21:40:51 2023-09-21] EXTRACTING /home/philo/.spicetify/spicetify.tar.gz
+[21:40:51 2023-09-21] SETTING EXECUTABLE PERMISSIONS TO /home/philo/.spicetify/spicetify
+[21:40:51 2023-09-21] REMOVING /home/philo/.spicetify/spicetify.tar.gz
+[21:40:51 2023-09-21] spicetify path already set in /home/philo/.config/fish/config.fish, continuing...
+[21:40:51 2023-09-21] spicetify v2.23.2 was installed successfully to /home/philo/.spicetify
+[21:40:51 2023-09-21] Run 'spicetify --help' to get started

@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="4" l="1695356957006" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1695357002716" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1695357123035" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="1" l="1695356612048" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1695394729008" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1695394730800" />
+    </e>
+    <e n="codeium.m$c">
+      <i c="1" l="1695398770402" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="2" l="1695357027414" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1695357109342" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1695398838943" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1695357121510" />
+    </e>
+    <e n="com.mallowigi.idea.notifications.MTStatisticsNotification$1">
+      <i c="1" l="1695357110691" />
+    </e>
+  </component>
+</application>

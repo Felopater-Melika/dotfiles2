@@ -1,0 +1,19 @@
+[FileDialogSize]
+2 screens: Height=564
+2 screens: Width=834
+
+[KFileDialog Settings]
+Recent Files[$e]=icomoon.ttf,file:$HOME/Hyprland-dotfiles/backup/icomoon/fonts/icomoon.ttf
+Recent URLs[$e]=file:$HOME/Hyprland-dotfiles/backup/icomoon/fonts/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=700
+2 screens: Width=1020
+2 screens: XPosition=3258
+2 screens: YPosition=50
+HDMI-A-0 eDP=HDMI-A-0
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

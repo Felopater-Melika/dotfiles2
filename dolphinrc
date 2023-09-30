@@ -1,0 +1,25 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[ExtractDialog]
+2 screens: Height=533
+2 screens: Width=876
+DirHistory[$e]=$HOME/
+
+[General]
+AutoExpandFolders=true
+ShowToolTips=true
+ShowZoomSlider=false
+Version=202
+ViewPropsTimestamp=2023,9,21,23,16,12.608
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled

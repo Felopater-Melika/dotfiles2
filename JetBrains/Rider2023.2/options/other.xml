@@ -1,0 +1,86 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Roboto" />
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Debug.Allow.Typing": "true",
+    "InstalledPluginsSearchHistory": "codeium\ncodium",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "MarketplacePluginsSearchHistory": "/suggested\ncodium\nco\ntabnin\nwa",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Observed.New.UI.State": "true",
+    "Rider.Last.Started.IDE.Build": "RD-232.9559.61",
+    "RunOnceActivity.BH_2023.7.12": "true",
+    "RunOnceActivity.software.aws.toolkits.jetbrains.services.caws.EnableGitCredHelper": "true",
+    "app.teamhub.com.google.firebase.auth.FIREBASE_USER": "{\"uid\":\"YUUWiCBLKgbKtaqVoGlU0LcKXJI3\",\"idToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6ImFhMDhlN2M3ODNkYjhjOGFjNGNhNzJhZjdmOWRkN2JiMzk4ZjE2ZGMiLCJ0eXAiOiJKV1QifQ.eyJwcm92aWRlcl9pZCI6ImFub255bW91cyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS90ZWFtaHViLWFwcCIsImF1ZCI6InRlYW1odWItYXBwIiwiYXV0aF90aW1lIjoxNjk1MzU2ODUwLCJ1c2VyX2lkIjoiWVVVV2lDQkxLZ2JLdGFxVm9HbFUwTGNLWEpJMyIsInN1YiI6IllVVVdpQ0JMS2diS3RhcVZvR2xVMExjS1hKSTMiLCJpYXQiOjE2OTUzOTg2NTIsImV4cCI6MTY5NTQwMjI1MiwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6e30sInNpZ25faW5fcHJvdmlkZXIiOiJhbm9ueW1vdXMifX0.FnpqLrESQ-V3nMDYRTgDRi6_Scl6A4oJKDze7DhQ6bl0uiMC2Fgs0fAFx_9s1cv_Eb47jogBx_ctK7Sjdb4p7qgtWELjqo797TXRXXtpyDtTIXYyitkDK7OKdCLDX2jC61kNgM4P582sHdk72IwnppgqbjzF0wOD0rB3hWZKVyZhKmIpbOeudAMKdvbV5_CUCo2Vvokf1pOa84thnBZECwwft_cR-ReJ8FmxWeB61E1KwNgUH8aS9MpZP4gMSRP04EsHxIKa0JLhwWO4WihA4vsVtmIDokb1iV6g9wP7UBiVbsTSb3diKxcmvSXuIHxECdHnoF0uz_23KpfSuFUr1Q\",\"refreshToken\":\"AMf-vBx2Upk4bX4KzMI7m2JqhIXCgzq2U3vk_z3jCEMLCkhTg0yyeUozk32go9z4J9-PEHBaZ057AVFJlyOPmvbVnhFINXEuN8-aRCDTxnAFqAqR4wOWceeDRynGRNpAjt66RehERr2yxcXGZld6l7x0XgnDrdZtIfZiRUKSNY5eolHFSXzfIPM\",\"expiresIn\":3600,\"createdAt\":1695398652958,\"isAnonymous\":true}",
+    "app.teamhub.fire-global": "1695356849891",
+    "app.teamhub.last-used-date": "2023-09-22",
+    "app.teamhub.team-window-shown": "true",
+    "app.teamhub.version": "16.1",
+    "appcds.runOnSecondStart": "RD-232.9559.61-ac8ba3728d00bf2a05e5fdfd683da8418ad2ea9803b6a97a6a4eb7fc7fe2a15a",
+    "bundled.plugins.list.saved.version": "RD-232.9559.61",
+    "cn.yiiguxing.plugin.translate.version": "3.5.4",
+    "com.github.lppedd.cc.version": "0.22.0",
+    "com.xliic.openapi.settings.platform.dictionary.pre-audit": "Ask",
+    "com.xliic.openapi.settings.platform.scan.docker.replace.localhost": "true",
+    "com.xliic.openapi.settings.platform.scan.docker.use.host.network": "true",
+    "com.xliic.openapi.settings.platform.scan.image": "42crunch/scand-agent:v2.0.0",
+    "com.xliic.openapi.settings.platform.scan.runtime": "docker",
+    "com.xliic.openapi.settings.platform.scan.scand.auth": "none",
+    "com.xliic.openapi.settings.platform.scan.scand.url": "",
+    "com.xliic.openapi.settings.platform.scan.services": "",
+    "com.xliic.openapi.settings.platform.url": "https://platform.42crunch.com",
+    "com.xliic.openapi.settings.preview.port": "61112",
+    "com.xliic.openapi.settings.preview.renderer": "Swagger UI",
+    "com.xliic.openapi.settings.sort.abc": "true",
+    "evlsprt3.232": "23",
+    "experimental.ui.first.promotion.localdate": "2023-09-21",
+    "experimental.ui.on.first.startup": "false",
+    "experimental.ui.used.version": "232.9559.61",
+    "experimentalFeature.editor.reader.mode": "false",
+    "fileTypeChangedCounter": "104",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "ide.memory.adjusted": "true",
+    "ide.widget.toolbar.first.inclusion": "2",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "io.jetclient.version": "2023.1.15-232",
+    "last_selected_template": "Empty Solution|",
+    "last_selected_template_parameters": "",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.showStatisticsAgreement": "true",
+    "openapi.generate.token.base64.key": "",
+    "previousColorScheme": "_@user_Catppuccin Mocha",
+    "registry.to.advanced.settings.migration.build": "RD-232.9559.61",
+    "rider.tool.window.stripe.manager.enable": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.kubernetes.api.settings.KubeConfigFileDetector",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ToolbarSettingsService">
+    <option name="SHOW_NEW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>

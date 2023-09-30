@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="accentColor" value="d2abff" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-71cfddfd:18abb255cb0:-8000" />
+    <option name="version" value="8.11.0" />
+  </component>
+</application>

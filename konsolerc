@@ -1,0 +1,23 @@
+[Desktop Entry]
+DefaultProfile=Garuda.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+ShowMenuBarByDefault=false
+
+[MainWindow]
+2 screens: Height=562
+2 screens: Width=1119
+2 screens: XPosition=3920
+2 screens: YPosition=529
+HDMI-A-0 eDP=HDMI-A-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAWQA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABAgD///8AAARfAAACKgAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAMAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAAAAAAAAAAH7AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+
+[UiSettings]
+ColorScheme=
