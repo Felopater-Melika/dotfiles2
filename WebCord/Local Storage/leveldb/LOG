@@ -1,3 +1,6 @@
 2023/09/30-16:17:39.405 255a Reusing MANIFEST /home/philo/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
 2023/09/30-16:17:39.406 255a Recovering log #19
 2023/09/30-16:17:39.406 255a Reusing old log /home/philo/.config/WebCord/Local Storage/leveldb/000019.log 
+2023/09/30-16:32:47.420 255b Level-0 table #24: started
+2023/09/30-16:32:47.432 255b Level-0 table #24: 80118 bytes OK
+2023/09/30-16:32:47.460 255b Delete type=0 #19
