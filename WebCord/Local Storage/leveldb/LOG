@@ -1,6 +1,21 @@
-2023/09/30-16:17:39.405 255a Reusing MANIFEST /home/philo/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2023/09/30-16:17:39.406 255a Recovering log #19
-2023/09/30-16:17:39.406 255a Reusing old log /home/philo/.config/WebCord/Local Storage/leveldb/000019.log 
-2023/09/30-16:32:47.420 255b Level-0 table #24: started
-2023/09/30-16:32:47.432 255b Level-0 table #24: 80118 bytes OK
-2023/09/30-16:32:47.460 255b Delete type=0 #19
+2023/10/01-12:22:00.851 358f Reusing MANIFEST /home/philo/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2023/10/01-12:22:00.867 358f Recovering log #26
+2023/10/01-12:22:00.875 358f Reusing old log /home/philo/.config/WebCord/Local Storage/leveldb/000026.log 
+2023/10/01-12:23:03.061 3590 Level-0 table #30: started
+2023/10/01-12:23:03.087 3590 Level-0 table #30: 76105 bytes OK
+2023/10/01-12:23:03.128 3590 Delete type=0 #26
+2023/10/01-12:36:03.063 358f Level-0 table #32: started
+2023/10/01-12:36:03.072 358f Level-0 table #32: 25787 bytes OK
+2023/10/01-12:36:03.089 358f Delete type=0 #29
+2023/10/01-12:36:03.089 358f Compacting 4@0 + 1@1 files
+2023/10/01-12:36:03.117 358f Generated table #33@0: 44 keys, 1984789 bytes
+2023/10/01-12:36:03.117 358f Compacted 4@0 + 1@1 files => 1984789 bytes
+2023/10/01-12:36:03.131 358f compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/01-12:36:03.131 358f Delete type=2 #21
+2023/10/01-12:36:03.131 358f Delete type=2 #24
+2023/10/01-12:36:03.131 358f Delete type=2 #27
+2023/10/01-12:36:03.131 358f Delete type=2 #30
+2023/10/01-12:36:03.131 358f Delete type=2 #32
+2023/10/01-12:48:03.061 3590 Level-0 table #35: started
+2023/10/01-12:48:03.069 3590 Level-0 table #35: 25944 bytes OK
+2023/10/01-12:48:03.083 3590 Delete type=0 #31

@@ -1,0 +1,45 @@
+[General]
+BrowserApplication[$d]
+ColorScheme[$d]
+ColorSchemeHash[$d]
+File1[$e]=$HOME/2023-10-01 16-03-12.mkv
+File2[$e]=$HOME/2023-10-01 16-04-01.mkv
+Name1[$e]=2023-10-01 16-03-12.mkv
+Name2[$e]=2023-10-01 16-04-01.mkv
+TimeFormat=1
+Volume=1
+XftHintStyle[$d]
+XftSubPixel[$d]
+fixed[$d]
+font[$d]
+menuFont[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+
+[MainWindow]
+2 screens: Height=642
+2 screens: Width=657
+2 screens: XPosition=4081
+2 screens: YPosition=438
+HDMI-A-0 eDP=HDMI-A-0
+State=AAAA/wAAAAD9AAAAAQAAAAEAAABIAAACPvwCAAAAAfsAAAAWAHYAbwBsAHUAbQBlAF8AZABvAGMAawEAAAAqAAACPgAAAAAAAAAAAAACkQAAAj4AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[file:///home/philo/2023-10-01 16-03-12.mkv]
+Brightness=0
+Contrast=0
+Date=2023,10,1
+Hue=0
+IsVideo=false
+Preferred Size=733,574
+Saturation=0
+
+[file:///home/philo/2023-10-01 16-04-01.mkv]
+Brightness=0
+Contrast=0
+Date=2023,10,1
+Hue=0
+IsVideo=true
+Preferred Size=657,574
+Saturation=0
+Subtitle=0

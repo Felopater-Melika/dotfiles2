@@ -3,6 +3,6 @@
 2 screens: Width=834
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Pictures/76w5yo.png,file:$HOME/Downloads/PluginRepo.plugin.js,file:$HOME/Downloads/Catppuccin-Macchiato-Blue.xpi,file:$HOME/Downloads/docker-desktop-4.23.0-x86_64.pkg.tar.zst,file:$HOME/Pictures/arch-black-4k.png
-Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/
+Recent Files[$e]=file:$HOME/Pictures/76w5yo.png,file:$HOME/Pictures/Screenshot_20231001_122919.png,file:$HOME/Pictures/Screenshots/Screenshot_2023-09-30-13-24-12_4720x1440.png,file:$HOME/Downloads/PluginRepo.plugin.js,file:$HOME/Downloads/Catppuccin-Macchiato-Blue.xpi,file:$HOME/Downloads/docker-desktop-4.23.0-x86_64.pkg.tar.zst,file:$HOME/Pictures/arch-black-4k.png
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Desktop/
 detailViewIconSize=16

@@ -1081,3 +1081,195 @@
 2023-09-30T20:06:32.834Z [Modules] Host is up to date.
 2023-09-30T20:06:32.834Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2023-09-30T20:06:32.837Z [Modules] No module updates available.
+2023-09-30T22:42:55.514Z [Modules] Modules initializing
+2023-09-30T22:42:55.515Z [Modules] Distribution: remote
+2023-09-30T22:42:55.515Z [Modules] Host updates: enabled
+2023-09-30T22:42:55.515Z [Modules] Module updates: enabled
+2023-09-30T22:42:55.516Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-09-30T22:42:55.516Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-09-30T22:42:55.516Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-09-30T22:42:55.668Z [Modules] No updates to install
+2023-09-30T22:42:55.668Z [Modules] Checking for host updates.
+2023-09-30T22:42:55.865Z [Modules] Host is up to date.
+2023-09-30T22:42:55.865Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-30T22:42:55.893Z [Modules] No module updates available.
+2023-09-30T22:42:57.928Z [Modules] Checking for host updates.
+2023-09-30T22:42:57.998Z [Modules] Host is up to date.
+2023-09-30T22:42:57.998Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-09-30T22:42:58.016Z [Modules] No module updates available.
+2023-10-01T00:22:23.927Z [Modules] Modules initializing
+2023-10-01T00:22:23.927Z [Modules] Distribution: remote
+2023-10-01T00:22:23.927Z [Modules] Host updates: enabled
+2023-10-01T00:22:23.927Z [Modules] Module updates: enabled
+2023-10-01T00:22:23.928Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T00:22:23.928Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T00:22:23.928Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T00:22:24.078Z [Modules] No updates to install
+2023-10-01T00:22:24.078Z [Modules] Checking for host updates.
+2023-10-01T00:22:24.317Z [Modules] Host is up to date.
+2023-10-01T00:22:24.317Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T00:22:24.352Z [Modules] No module updates available.
+2023-10-01T00:22:26.230Z [Modules] Checking for host updates.
+2023-10-01T00:22:26.323Z [Modules] Host is up to date.
+2023-10-01T00:22:26.323Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T00:22:26.325Z [Modules] No module updates available.
+2023-10-01T00:46:15.746Z [Modules] Modules initializing
+2023-10-01T00:46:15.746Z [Modules] Distribution: remote
+2023-10-01T00:46:15.746Z [Modules] Host updates: enabled
+2023-10-01T00:46:15.746Z [Modules] Module updates: enabled
+2023-10-01T00:46:15.747Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T00:46:15.747Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T00:46:15.747Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T00:46:15.898Z [Modules] No updates to install
+2023-10-01T00:46:15.899Z [Modules] Checking for host updates.
+2023-10-01T00:46:16.090Z [Modules] Host is up to date.
+2023-10-01T00:46:16.090Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T00:46:16.144Z [Modules] No module updates available.
+2023-10-01T00:46:17.939Z [Modules] Checking for host updates.
+2023-10-01T00:46:18.025Z [Modules] Host is up to date.
+2023-10-01T00:46:18.025Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T00:46:18.028Z [Modules] No module updates available.
+2023-10-01T00:46:42.252Z [Modules] Modules initializing
+2023-10-01T00:46:42.253Z [Modules] Distribution: remote
+2023-10-01T00:46:42.253Z [Modules] Host updates: enabled
+2023-10-01T00:46:42.253Z [Modules] Module updates: enabled
+2023-10-01T00:46:42.253Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T00:46:42.253Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T00:46:42.253Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T00:46:42.559Z [Modules] No updates to install
+2023-10-01T00:46:42.559Z [Modules] Checking for host updates.
+2023-10-01T00:46:43.440Z [Modules] Host is up to date.
+2023-10-01T00:46:43.440Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T00:46:43.453Z [Modules] No module updates available.
+2023-10-01T00:46:45.933Z [Modules] Checking for host updates.
+2023-10-01T00:46:46.000Z [Modules] Host is up to date.
+2023-10-01T00:46:46.001Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T00:46:46.003Z [Modules] No module updates available.
+2023-10-01T20:04:49.486Z [Modules] Modules initializing
+2023-10-01T20:04:49.486Z [Modules] Distribution: remote
+2023-10-01T20:04:49.486Z [Modules] Host updates: enabled
+2023-10-01T20:04:49.487Z [Modules] Module updates: enabled
+2023-10-01T20:04:49.487Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T20:04:49.487Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T20:04:49.487Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T20:04:49.650Z [Modules] No updates to install
+2023-10-01T20:04:49.651Z [Modules] Checking for host updates.
+2023-10-01T20:04:49.841Z [Modules] Host is up to date.
+2023-10-01T20:04:49.842Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:04:49.873Z [Modules] No module updates available.
+2023-10-01T20:04:51.788Z [Modules] Checking for host updates.
+2023-10-01T20:04:51.874Z [Modules] Host is up to date.
+2023-10-01T20:04:51.874Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:04:51.876Z [Modules] No module updates available.
+2023-10-01T20:06:17.917Z [Modules] Modules initializing
+2023-10-01T20:06:17.918Z [Modules] Distribution: remote
+2023-10-01T20:06:17.918Z [Modules] Host updates: enabled
+2023-10-01T20:06:17.918Z [Modules] Module updates: enabled
+2023-10-01T20:06:17.918Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T20:06:17.918Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T20:06:17.918Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T20:06:18.091Z [Modules] No updates to install
+2023-10-01T20:06:18.091Z [Modules] Checking for host updates.
+2023-10-01T20:06:18.293Z [Modules] Host is up to date.
+2023-10-01T20:06:18.294Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:06:18.335Z [Modules] No module updates available.
+2023-10-01T20:06:20.937Z [Modules] Checking for host updates.
+2023-10-01T20:06:21.005Z [Modules] Host is up to date.
+2023-10-01T20:06:21.006Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:06:21.008Z [Modules] No module updates available.
+2023-10-01T20:33:01.503Z [Modules] Modules initializing
+2023-10-01T20:33:01.504Z [Modules] Distribution: remote
+2023-10-01T20:33:01.504Z [Modules] Host updates: enabled
+2023-10-01T20:33:01.504Z [Modules] Module updates: enabled
+2023-10-01T20:33:01.504Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T20:33:01.504Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T20:33:01.504Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T20:33:01.687Z [Modules] No updates to install
+2023-10-01T20:33:01.687Z [Modules] Checking for host updates.
+2023-10-01T20:33:03.140Z [Modules] Host is up to date.
+2023-10-01T20:33:03.141Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:33:03.178Z [Modules] No module updates available.
+2023-10-01T20:33:05.550Z [Modules] Checking for host updates.
+2023-10-01T20:33:05.660Z [Modules] Host is up to date.
+2023-10-01T20:33:05.660Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:33:05.663Z [Modules] No module updates available.
+2023-10-01T20:50:20.403Z [Modules] Modules initializing
+2023-10-01T20:50:20.404Z [Modules] Distribution: remote
+2023-10-01T20:50:20.404Z [Modules] Host updates: enabled
+2023-10-01T20:50:20.404Z [Modules] Module updates: enabled
+2023-10-01T20:50:20.405Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-01T20:50:20.405Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-01T20:50:20.405Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-01T20:50:20.624Z [Modules] No updates to install
+2023-10-01T20:50:20.625Z [Modules] Checking for host updates.
+2023-10-01T20:50:22.189Z [Modules] Host is up to date.
+2023-10-01T20:50:22.189Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:50:22.284Z [Modules] No module updates available.
+2023-10-01T20:50:24.770Z [Modules] Checking for host updates.
+2023-10-01T20:50:24.867Z [Modules] Host is up to date.
+2023-10-01T20:50:24.867Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-01T20:50:24.870Z [Modules] No module updates available.
+2023-10-02T16:37:13.143Z [Modules] Modules initializing
+2023-10-02T16:37:13.143Z [Modules] Distribution: remote
+2023-10-02T16:37:13.143Z [Modules] Host updates: enabled
+2023-10-02T16:37:13.144Z [Modules] Module updates: enabled
+2023-10-02T16:37:13.144Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-02T16:37:13.144Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-02T16:37:13.144Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-02T16:37:13.290Z [Modules] No updates to install
+2023-10-02T16:37:13.291Z [Modules] Checking for host updates.
+2023-10-02T16:37:13.509Z [Modules] Host is up to date.
+2023-10-02T16:37:13.509Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:37:13.541Z [Modules] No module updates available.
+2023-10-02T16:37:15.593Z [Modules] Checking for host updates.
+2023-10-02T16:37:15.713Z [Modules] Host is up to date.
+2023-10-02T16:37:15.713Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:37:15.715Z [Modules] No module updates available.
+2023-10-02T16:40:51.169Z [Modules] Modules initializing
+2023-10-02T16:40:51.169Z [Modules] Distribution: remote
+2023-10-02T16:40:51.169Z [Modules] Host updates: enabled
+2023-10-02T16:40:51.169Z [Modules] Module updates: enabled
+2023-10-02T16:40:51.170Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-02T16:40:51.170Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-02T16:40:51.170Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-02T16:40:51.320Z [Modules] No updates to install
+2023-10-02T16:40:51.321Z [Modules] Checking for host updates.
+2023-10-02T16:40:51.752Z [Modules] Host is up to date.
+2023-10-02T16:40:51.752Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:40:51.991Z [Modules] No module updates available.
+2023-10-02T16:40:53.938Z [Modules] Checking for host updates.
+2023-10-02T16:40:54.135Z [Modules] Host is up to date.
+2023-10-02T16:40:54.135Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:40:54.139Z [Modules] No module updates available.
+2023-10-02T16:48:00.391Z [Modules] Modules initializing
+2023-10-02T16:48:00.391Z [Modules] Distribution: remote
+2023-10-02T16:48:00.391Z [Modules] Host updates: enabled
+2023-10-02T16:48:00.391Z [Modules] Module updates: enabled
+2023-10-02T16:48:00.392Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-02T16:48:00.392Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-02T16:48:00.393Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-02T16:48:00.566Z [Modules] No updates to install
+2023-10-02T16:48:00.566Z [Modules] Checking for host updates.
+2023-10-02T16:48:00.775Z [Modules] Host is up to date.
+2023-10-02T16:48:00.775Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:48:00.820Z [Modules] No module updates available.
+2023-10-02T16:48:02.695Z [Modules] Checking for host updates.
+2023-10-02T16:48:02.791Z [Modules] Host is up to date.
+2023-10-02T16:48:02.791Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:48:02.795Z [Modules] No module updates available.
+2023-10-02T16:53:27.246Z [Modules] Modules initializing
+2023-10-02T16:53:27.246Z [Modules] Distribution: remote
+2023-10-02T16:53:27.246Z [Modules] Host updates: enabled
+2023-10-02T16:53:27.246Z [Modules] Module updates: enabled
+2023-10-02T16:53:27.247Z [Modules] Module install path: /home/philo/.config/discord/0.0.30/modules
+2023-10-02T16:53:27.247Z [Modules] Module installed file path: /home/philo/.config/discord/0.0.30/modules/installed.json
+2023-10-02T16:53:27.247Z [Modules] Module download path: /home/philo/.config/discord/0.0.30/modules/pending
+2023-10-02T16:53:27.441Z [Modules] No updates to install
+2023-10-02T16:53:27.441Z [Modules] Checking for host updates.
+2023-10-02T16:53:27.675Z [Modules] Host is up to date.
+2023-10-02T16:53:27.676Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:53:27.742Z [Modules] No module updates available.
+2023-10-02T16:53:31.156Z [Modules] Checking for host updates.
+2023-10-02T16:53:31.244Z [Modules] Host is up to date.
+2023-10-02T16:53:31.245Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-10-02T16:53:31.247Z [Modules] No module updates available.

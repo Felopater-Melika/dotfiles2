@@ -8,12 +8,11 @@ Recent URLs[$e]=file:$HOME/Hyprland-dotfiles/backup/icomoon/fonts/
 detailViewIconSize=16
 
 [MainWindow]
-2 screens: Height=700
+2 screens: Height=1040
 2 screens: Width=1020
-2 screens: XPosition=3258
-2 screens: YPosition=50
+2 screens: XPosition=4073
+2 screens: YPosition=139
 HDMI-A-0 eDP=HDMI-A-0
 MenuBar=Disabled
-RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAQQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled

@@ -5,9 +5,4 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10bed1e765000169610824300000546200003
-count=1
-program1=firefox
-restartCommand1=/usr/lib/firedragon/firedragon,--sm-client-id,10bed1e765000169610824300000546200003
-restartStyleHint1=0
-userId1=philo
+count=0

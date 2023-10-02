@@ -1,5 +1,11 @@
 [$Version]
 update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
 
+[Annotations]
+annotationToolType=4
+
 [GuiConfig]
 captureMode=0
+
+[Save]
+lastSaveLocation=file:///home/philo/Pictures/Screenshot_20231001_155124.png
